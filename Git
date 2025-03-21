@@ -1,0 +1,17 @@
+//git status 
+//git add
+//gir commit 
+//git push
+//git pull
+//git log
+
+//git config --add --global user.name "Your Name"
+//git config --add --global user.email "
+//git config --get user.name
+//git config --get user.email
+
+//cat ~/.gitconfig dentro de um bash
+
+//git config --global init.defaultBranch main //mudar o nome da branch principal
+// git status
+//git init 
